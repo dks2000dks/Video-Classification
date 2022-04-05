@@ -1,0 +1,26 @@
+\begin{thebibliography}{1}\itemsep=-1pt
+
+\bibitem{abuelhaija2016youtube8m}
+Sami Abu-El-Haija, Nisarg Kothari, Joonseok Lee, Paul Natsev, George Toderici,
+  Balakrishnan Varadarajan, and Sudheendra Vijayanarasimhan.
+\newblock Youtube-8m: A large-scale video classification benchmark, 2016.
+
+\bibitem{goodfellow2015explaining}
+Ian~J. Goodfellow, Jonathon Shlens, and Christian Szegedy.
+\newblock Explaining and harnessing adversarial examples, 2015.
+
+\bibitem{ng2015short}
+Joe Yue-Hei Ng, Matthew Hausknecht, Sudheendra Vijayanarasimhan, Oriol Vinyals,
+  Rajat Monga, and George Toderici.
+\newblock Beyond short snippets: Deep networks for video classification, 2015.
+
+\bibitem{wei2018sparse}
+Xingxing Wei, Jun Zhu, and Hang Su.
+\newblock Sparse adversarial perturbations for videos, 2018.
+
+\bibitem{enwiki:1057073251}
+{Wikipedia contributors}.
+\newblock Image noise --- {Wikipedia}{,} the free encyclopedia, 2021.
+\newblock [Online; accessed 6-December-2021].
+
+\end{thebibliography}
